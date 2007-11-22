@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 use base 'Class::Value::SemanticAdapter';
@@ -170,7 +170,7 @@ please use the C<classvalueuri> tag.
 
 =head1 VERSION 
                    
-This document describes version 0.01 of L<Class::Value::URI::fax>.
+This document describes version 0.02 of L<Class::Value::URI::fax>.
 
 =head1 BUGS AND LIMITATIONS
 
